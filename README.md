@@ -60,7 +60,7 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 - Multi-user roles (Admin, Customer)
 - WPF or MAUI UI redesign
 - Currency exchange module 💱
-- Email/SMS transaction notifications
+- SMS transaction notifications
 
 🧑‍💻 Author
 
