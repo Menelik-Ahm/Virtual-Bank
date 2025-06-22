@@ -45,7 +45,6 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 >[Send to Gmail]
 >![image](https://github.com/user-attachments/assets/771e3b6b-9d11-4aeb-9ed8-ae62656fef3f)
 
-
 📂 How to Run
 
 1. Clone the repository  
@@ -56,8 +55,10 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 3. Restore NuGet packages if needed
 
 4. Set up the **SQL database**
-
-5. Run the application!
+   
+5. Set up the **Sound and images folder**
+   
+6. Run the application!
 
 📈 Future Improvements
 
