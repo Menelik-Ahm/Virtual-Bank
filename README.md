@@ -19,7 +19,7 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 📸 Screenshots
 
 > [Login Screen]
- [image](https://github.com/user-attachments/assets/b603d973-edea-4be3-b8cd-bde02340845a)
+ ![image](https://github.com/user-attachments/assets/b603d973-edea-4be3-b8cd-bde02340845a)
 
 >[Home Page]
 > ![image](https://github.com/user-attachments/assets/f9d9a4dc-24d2-47bc-8a3f-2f5864eab61d)
@@ -51,7 +51,7 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 
 3. Restore NuGet packages if needed
 
-4. Set up the **SQL database** (script included in `DatabaseScript.sql`)
+4. Set up the **SQL database**
 
 5. Run the application!
 
