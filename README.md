@@ -4,11 +4,11 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 
  🚀 Features
 
-💸 Deposit, Withdraw, and Transfer money
-👤 Login authentication with credentials
-📊 Live balance and transaction history
-🔐 SQL-based data integrity and security
-🖥️ Windows Forms (WinForms) desktop UI
+-- 💸 Deposit, Withdraw, and Transfer money
+-- 👤 Login authentication with credentials
+-- 📊 Live balance and transaction history
+-- 🔐 SQL-based data integrity and security
+-- 🖥️ Windows Forms (WinForms) desktop UI
 
  🔧 Tech Stack
 
