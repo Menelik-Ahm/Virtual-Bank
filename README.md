@@ -42,6 +42,10 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 >[Change PIN]
 >![image](https://github.com/user-attachments/assets/a0c1be5d-67c7-43da-bb0a-64111ad97d8f)
 
+>[Send to Gmail]
+>![image](https://github.com/user-attachments/assets/771e3b6b-9d11-4aeb-9ed8-ae62656fef3f)
+
+
 📂 How to Run
 
 1. Clone the repository  
