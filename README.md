@@ -73,3 +73,7 @@ A secure virtual banking app built in C# with SQL Server. Supports deposit, with
 📄 License
 
 MIT License – feel free to use, modify, and share!
+
+
+
+**Files are uploaded separately because ZIP size was more than 25MB**
